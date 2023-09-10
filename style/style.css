@@ -1,0 +1,28 @@
+body {
+    background-color: gray;
+    text-align:center;
+    background-image: url(../images/mmo_wallpaper.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+}
+
+.h1 {
+    text-decoration: underline;
+    color: orange;
+}
+
+
+a:active,
+a:link,
+a:visited,
+h1:hover {
+    color:orange
+}
+
+
+.großer-button {
+    width: 200px;
+    height: 30px;
+    font-size: 16px;
+}
